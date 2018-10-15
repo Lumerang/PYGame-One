@@ -6,7 +6,7 @@ WINDOW_HEIGHT = 600
 FPS = 30
 
 FPSCLOCK = pygame.time.Clock()
-
+a = 1
 
 def main():
     pygame.init()
